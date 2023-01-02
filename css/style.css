@@ -1,0 +1,10 @@
+* {
+    background-color: darkslategray;
+}
+
+.g-col-4 {
+    border: 2px solid black;
+    width: 100px;
+    margin: 50px auto;
+    padding: 20px;
+}
